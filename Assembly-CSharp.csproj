@@ -58,9 +58,11 @@
   <ItemGroup>
     <Compile Include="Assets/script/Setting.cs" />
     <Compile Include="Assets/script/EnemyScript.cs" />
+    <Compile Include="Assets/UI Buttons/Scripts/Controller.cs" />
     <Compile Include="Assets/Bandits - Pixel Art/Demo/Bandit.cs" />
     <Compile Include="Assets/Hero Knight - Pixel Art/Demo/Sensor_HeroKnight.cs" />
     <Compile Include="Assets/Bandits - Pixel Art/Demo/Sensor_Bandit.cs" />
+    <Compile Include="Assets/script/BGMManager.cs" />
     <Compile Include="Assets/script/GameManagerScript.cs" />
     <Compile Include="Assets/script/sceneManager.cs" />
     <Compile Include="Assets/script/start.cs" />
@@ -69,7 +71,6 @@
     <Compile Include="Assets/Hero Knight - Pixel Art/Demo/DestroyEvent_HeroKnight.cs" />
     <Compile Include="Assets/script/PlayerScript.cs" />
     <Compile Include="Assets/script/select.cs" />
-    <Compile Include="Assets/UI Buttons/Scripts/Controller.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/20 Logos PSD/Fonts/chunkfiveex/SIL Open Font License 1.1.txt" />
