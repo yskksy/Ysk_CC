@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{2E8A495B-2EC7-40A1-383D-76C38A801F6E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/select.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/EnemyScript.cs">
     <Files>
-      <File FileName="Assets/script/start.cs" Line="2" Column="34" />
-      <File FileName="Assets/script/select.cs" Line="8" Column="28" />
+      <File FileName="Assets/script/Setting.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/script/PlayerScript.cs" IsPinned="True" />
+      <File FileName="Assets/script/EnemyScript.cs" Line="28" Column="27" />
+      <File FileName="Assets/script/start.cs" />
+      <File FileName="Assets/script/select.cs" />
+      <File FileName="Assets/script/SceneManager.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0878885d-fd38-401b-8309-24a5883e3795" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="432ebbfc-575a-472e-b7b8-9c4c50c10b18" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

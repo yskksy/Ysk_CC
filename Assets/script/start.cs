@@ -6,9 +6,6 @@ using UnityEngine;
 public class start : MonoBehaviour
 {
     
-    public void OnClickStartButton()
-    {
-        SceneManager.LoadScene("select");
-    }
+    
 
 }

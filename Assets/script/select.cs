@@ -5,8 +5,5 @@ using UnityEngine.SceneManagement;
 
 public class select : MonoBehaviour
 {
-    public void OnClickGameButton()
-    {
-        SceneManager.LoadScene("play");
-    }
+    
 }
